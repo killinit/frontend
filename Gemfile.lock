@@ -20,7 +20,8 @@ GIT
 
 GIT
   remote: git@github.com:moneyadviceservice/rio.git
-  revision: fdcc77549facf9a5d0f92dbba25fc8dccff0393a
+  revision: aa81f9daf160be27ca4e57533f0db84842d94a53
+  branch: add_welsh_graphics
   specs:
     rio (0.0.3)
       bowndler
